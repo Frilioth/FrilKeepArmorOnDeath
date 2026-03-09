@@ -14,7 +14,7 @@ After 3 seconds (once the ragdoll is active), the equipment data is cleared prop
 2. Extract the `FrilKeepArmorOnDeath` folder into your `Mods` directory
 3. Launch the game with **EAC disabled**
 
-Requires [0_TFP_Harmony](https://7daystodiemods.com/harmony-mod/).
+Requires 0_TFP_Harmony.
 
 ## Compatibility
 
