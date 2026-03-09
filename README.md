@@ -1,4 +1,4 @@
-# Keep Armor On Death
+# Keep Armour On Death
 
 A simple mod for **7 Days to Die (V2.6)** that keeps your armor visible on your player model during the death animation. No more dying naked.
 
